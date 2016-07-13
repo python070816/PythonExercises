@@ -1,0 +1,1 @@
+Exercises are here: https://github.com/python070816/PythonExercises/wiki/Week-4B

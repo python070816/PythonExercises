@@ -1,1 +1,1 @@
-# Exercises are located in the wiki
+# Exercises are located in the wiki.
